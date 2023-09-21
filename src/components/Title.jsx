@@ -2,7 +2,7 @@ export function Title() {
   return (
     <div className="flex flex-col justify-center items-center p-4 text-center">
       <img
-        src="src/assets/img/spayt.png"
+        src="https://spaytchihuahua.gob.mx/images/logoSPAyT.png"
         alt="Logo del spayt"
         className="w-64 h-auto"
       />
