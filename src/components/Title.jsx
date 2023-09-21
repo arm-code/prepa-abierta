@@ -1,8 +1,11 @@
+import logo from '/src/assets/img/spayt.png';
+
 export function Title() {
+
   return (
     <div className="flex flex-col justify-center items-center p-4 text-center">
       <img
-        src="https://spaytchihuahua.gob.mx/images/logoSPAyT.png"
+        src={logo}
         alt="Logo del spayt"
         className="w-64 h-auto"
       />
